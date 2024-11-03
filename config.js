@@ -13,8 +13,8 @@ import { en, es, id, ar, pt } from "./lib/idiomas/total-idiomas.js"
 // [ES] > Agrega el número que será Bot y los que serán propietarios.
 // [EN] > Add the number that will be Bot and those that will be owners.
 global.owner = [
-["249128749239", '👑 𝑀𝐼𝐷𝛩 👑', true], //𝑀𝐼𝐷𝛩 💖🐈
-["249111230420", '💫 𝑀𝛩𝐻𝐴𝑀𝑀𝐸𝐷 𝐴𝐷𝐸𝐿 💫', true], //𝑀𝛩𝐻𝐴𝑀𝑀𝐸𝐷 𝐴𝐷𝐸𝐿 💖🐈
+["212678927537", '👑 ايانو 👑', true], //Arthur 💖🐈
+["212678927537", '💫 ايانو 💫', true], //Arthur 💖🐈
 ]
 
 
@@ -117,9 +117,9 @@ global.moment = moment
 // [ES] > Agregate a ti, colaboradores o ayudates, aparecerá en el comando de lista de contactos.
 // [EN] > Adding yourself, collaborators or helpers will appear in the contact list command.
 global.official = [ // Agregate si eres Owner
-["249111230420", '👑 𝑀𝛩𝐻𝐴𝑀𝑀𝐸𝐷 𝐴𝐷𝐸𝐿 👑', 1], 
-["249111230420", '💫 𝑀𝛩𝐻𝐴𝑀𝑀𝐸𝐷 𝐴𝐷𝐸𝐿 💫', 1],  
-["249111230420", '👑 𝑀𝛩𝐻𝐴𝑀𝑀𝐸𝐷 𝐴𝐷𝐸𝐿 👑', 1]]
+["249111230420", '👑 ايانو 👑', 1], 
+["249111230420", '💫 ايانو 💫', 1],  
+["249111230420", '👑 ايانو 👑', 1]]
 
 global.mail = '' // Add email
 global.desc = '' // Add short description (20 caractres max)
@@ -166,7 +166,7 @@ global.exito = eg
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 global.wm = "𝑀𝐼𝐷𝛩﹝⚡️﹞𝐁𝐎𝐓"
 global.igfg = "𝑀𝛩𝐻𝐴𝑀𝑀𝐸𝐷 𝐴𝐷𝐸𝐿"
-global.nomorown = "249111230420"
+global.nomorown = "212678927537"
 global.pdoc = ["application/vnd.openxmlformats-officedocument.presentationml.presentation", "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", "application/vnd.openxmlformats-officedocument.wordprocessingml.document", "application/vnd.ms-excel", "application/msword", "application/pdf", "text/rtf"]
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
